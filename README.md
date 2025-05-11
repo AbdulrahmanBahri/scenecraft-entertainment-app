@@ -14,7 +14,7 @@ This project was built as part of the [Amazon Q Developer "Quack The Code" Chall
 - 🎵 **Scene-Based Background Music** for immersive atmosphere
 - 🎬 **Dynamic Scene Renderer** — each sentence of the story is rendered as a separate scene with image + audio
 - ☁️ **All Assets Stored in S3** — images, audio, and metadata
-- ⚙️ **Fully Serverless Stack** powered by AWS Lambda, S3, Bedrock, and more
+- ⚙️ **Fully Serverless Stack** powered by S3, Bedrock, and more
 
 ---
 
@@ -34,7 +34,6 @@ This project was built as part of the [Amazon Q Developer "Quack The Code" Chall
    - An image is generated (Stable Diffusion via Bedrock).
    - The scene is narrated using **Amazon Polly**.
    - Background music is selected based on mood/emotion detected in text.
-   - Character mood emoji are displayed inline.
 6. Frontend renders the scenes as an animated storybook with audio and visuals.
 
 ---
@@ -48,8 +47,6 @@ This project was built as part of the [Amazon Q Developer "Quack The Code" Chall
   - **Amazon S3** – for storing generated media (images, audio).
 - **Developer Tooling**:
   - **Amazon Q Developer** – helped with debugging, architecture planning, and prompt optimization.
-
-
 
 ---
 
