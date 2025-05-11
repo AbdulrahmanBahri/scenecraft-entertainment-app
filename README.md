@@ -57,5 +57,23 @@ This project was built as part of the [Amazon Q Developer "Quack The Code" Chall
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/scenecraft.git
+   git clone https://github.com/AbdulrahmanBahri/scenecraft.git
    cd scenecraft
+
+2. Install dependencies:
+   ```bash
+   npm install
+
+3. Configure your AWS credentials (for local testing or deployment):
+   ```bash
+   aws configure
+
+4. Start the backend:
+   ```bash
+   cd scencecraft/backend
+   node app.js
+
+5. Start the frontend:
+   ```bash
+   cd scencecraft
+   npm start
