@@ -77,20 +77,20 @@ This project was built as part of the [Amazon Q Developer "Quack The Code" Chall
 
 ---
 
-🔒 License
+## 🔒 License
 This project is licensed under the MIT License.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 PRs welcome! Please fork the repo and submit a pull request. For major changes, open an issue first to discuss what you’d like to change.
 
 ---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Made with ❤️ by Abdulrahman Bahri
 
 ---
 
-🧠 Submission Info
+## 🧠 Submission Info
 This project is a submission for the Amazon Q Developer "Quack The Code" Challenge.
