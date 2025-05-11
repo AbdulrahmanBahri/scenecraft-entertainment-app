@@ -18,7 +18,7 @@ This project was built as part of the [Amazon Q Developer "Quack The Code" Chall
 
 ## 📽️ Demo
 
-[![Watch the Demo] (https://drive.google.com/file/d/1H0zNjQ8SaRXI1uy1aIOfAkVLYnRCYDPX/view?usp=drive_link))
+[![Watch the Demo](https://img.shields.io/badge/🎥-Click%20to%20watch%20demo-blue?logo=youtube)]([YOUR_DEMO_VIDEO_LINK_HERE](https://drive.google.com/file/d/1H0zNjQ8SaRXI1uy1aIOfAkVLYnRCYDPX/view?usp=drive_link))
 
 ---
 
